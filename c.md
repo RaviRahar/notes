@@ -75,7 +75,7 @@ Object is used below to denote arbitrary datatype
 
 ### Links:
 
-- [Reading C type declarations: Steve Friedl's Unixwiz.net Tech Tips ](http://unixwiz.net/techtips/reading-cdecl.html)
+- [Reading C type declarations: Steve Friedl's Unixwiz.net Tech Tips ](https://web.archive.org/web/20230121005336/http://unixwiz.net/techtips/reading-cdecl.html)
 - [Doesn't a 2D array decay to pointer to pointer](https://stackoverflow.com/a/22987227)
 - [What is array to pointer decay?](https://stackoverflow.com/a/1461449)
 - [What the memory difference between char \*array and char array?](https://stackoverflow.com/a/67865815)

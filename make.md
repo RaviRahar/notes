@@ -95,8 +95,8 @@
 
 - Blogs:
 
-  - [A Simple Makefile Tutorial](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)
-  - [File Dependencies: make by Steven J Zeil](https://www.cs.odu.edu/~zeil/cs350/latest/Public/make/index.html)
+  - [A Simple Makefile Tutorial](https://web.archive.org/web/20230110211045/https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)
+  - [File Dependencies: make by Steven J Zeil](https://web.archive.org/web/20230124101656/https://www.cs.odu.edu/~zeil/cs350/latest/Public/make/index.html)
 
 - From Manual:
 
