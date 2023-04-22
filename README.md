@@ -14,3 +14,7 @@
 - [Make](make.md)
 - [React](react.md)
 - [TOC](toc.md)
+
+### General links:
+
+- [Project Based Learning](https://github.com/practical-tutorials/project-based-learning#rust)
